@@ -1501,5 +1501,14 @@ body {
   z-index: 1000001;
 }
 
+.creator{
+    margin-top: 28px;
+    text-align:center;
+    color:#d6b27c;
+    font-size:12px;
+    letter-spacing:3px;
+    text-transform:uppercase;
+    opacity:.75;
+}
 
 
